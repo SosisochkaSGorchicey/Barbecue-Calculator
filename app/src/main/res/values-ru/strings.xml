@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор Шашлыка</string>
+    <string name="title">Рассчитайте идеальное количество шашлыка в пару кликов</string>
+    <string name="choose_meat">Выберите вид мяса:</string>
+    <string name="choose_people">Сколько человек будет есть?</string>
+    <string name="people_hint">Введите число</string>
+    <string name="choose_length">Насколько долгая планируется посиделка?</string>
+    <string name="length_s">Быстро поели и домой!</string>
+    <string name="length_m">На целый вечер</string>
+    <string name="length_l">Будем сидеть до победного!</string>
+    <string name="choose_hunger">Уровень общего голода:</string>
+    <string name="result">"Результат: "</string>
+    <string name="count">посчитать</string>
+    <string name="toast">Пожалуйста, заполните все поля!</string>
+    <string name="kilo">кг</string>
+    <string name="toast_people">Количество людей должно быть от 1 до 50</string>
+    <string name="result_culculated">Результат: %1$s кг</string>
+    <string name="result_calculated">Результат: %1$s кг</string>
+</resources>

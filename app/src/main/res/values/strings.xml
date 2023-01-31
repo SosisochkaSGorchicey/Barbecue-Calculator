@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Barbecue Calculator</string>
+    <string name="title">Calculate the ideal amount of barbecue in a couple of clicks</string>
+    <string name="choose_meat">Choose the type of meat:</string>
+    <string name="choose_people">How many people will eat?</string>
+    <string name="people_hint">Enter a number</string>
+    <string name="choose_length">How long is the planned get-together?</string>
+    <string name="length_s">Let\'s eat quickly and go home!</string>
+    <string name="length_m">For the whole evening</string>
+    <string name="length_l">We\'re going full send on barbecuing tonight!</string>
+    <string name="choose_hunger">The level of general hunger:</string>
+    <string name="result">"Result: "</string>
+    <string name="result_calculated">Result: %1$s kg</string>
+    <string name="count">calculate</string>
+    <string name="toast">Please, fill all information!</string>
+    <string name="kilo">kg</string>
+    <string name="toast_people">The number of people should be from 1 to 50</string>
+
+</resources>
