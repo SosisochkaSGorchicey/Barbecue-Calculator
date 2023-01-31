@@ -11,4 +11,4 @@ Basically it is a calculator that counts an ideal amount of meat beasd on:
 
 This application is published in [Google Play](https://play.google.com/store/apps/details?id=com.my.shashlik) and has two languages - English and Russian. Those beautiful images were painted by my friend, so please do not use them in your projects.
 
-"Barbecue Calculator" can *most likely* be improved, but it works and this is already a great success for me!:nerd_face: If you have any advices for my application I would love to receive them on my email - shashlik.app@yandex.ru.
+"Barbecue Calculator" can *most likely* be improved, but it works and this is already a great success for me!:nerd_face: If you have any advices for my application I would love to receive them on my email - shashlik.app@yandex.ru.:revolving_hearts:
